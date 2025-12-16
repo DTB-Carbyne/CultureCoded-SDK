@@ -1,6 +1,6 @@
 {
   "name": "@culturecoded/sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Official JavaScript/TypeScript SDK for CultureCoded - Cultural UX Intelligence Platform",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
