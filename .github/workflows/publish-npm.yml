@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: sdk/javascript
+        working-directory: javascript
 
     steps:
       - name: Checkout repository

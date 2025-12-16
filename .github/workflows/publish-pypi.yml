@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: sdk/python
+        working-directory: python
 
     steps:
       - name: Checkout repository
